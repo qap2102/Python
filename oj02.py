@@ -1,0 +1,11 @@
+a = int(input())
+b = int(input())
+c = input()
+
+d = float(input())
+e = float(input())
+print(a)
+print(b)
+print(c)
+print('%.2f' % d)
+print('%.9f' % e)
